@@ -46,4 +46,4 @@ We will use the survey data to generate a report detailing our survey findings b
 
 [Christopher Yau](https://www.wrh.ox.ac.uk/team/christoper-yau). Professor of Artificial Intelligence at the [University of Oxford](http://www.ox.ac.uk) and [Health Data Research UK](https://www.hdruk.ac.uk/). 
 
-Many thanks to Dominic Danks, Kaspar Martens, David Wong, Emma Whitfield, Breeshey Roskams-Hieter, Tim Frayling, Cecilia Lindgren, Angela Wood, Jose Benetiz-Aurioles, Andrew Holding, Karla DiazOrdaz, Catalina Vallejos, and many others I have forgotten for supporting the development of this survey.
+Many thanks to Dominic Danks, Kaspar Martens, David Wong, Emma Whitfield, Breeshey Roskams-Hieter, Tim Frayling, Cecilia Lindgren, Angela Wood, Jose Benetiz-Aurioles, Andrew Holding, Karla DiazOrdaz, Catalina Vallejos, Woojung Kim, Iain Styles, Sarah Cadman, and many others I have forgotten for supporting the development of this survey.
