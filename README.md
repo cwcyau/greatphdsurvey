@@ -2,8 +2,6 @@
 
 ## What are we doing?
 
-My name is [Christopher Yau](https://www.wrh.ox.ac.uk/team/christoper-yau) and I am Professor of Artificial Intelligence at the [University of Oxford](http://www.ox.ac.uk) and [Health Data Research UK](https://www.hdruk.ac.uk/). 
-
 We are carrying out a [survey](https://forms.gle/u55swJNChHbaKMMS6) of UK PhD students who are working in any area of data science and I need your help! We hope to get survey responses from over 300 PhD students so please help us by sparing 10-15 minutes of your time to answer some questions.
 
 Responses received before **15 July 2022** will be entered into a prize draw for a selection of £30 Amazon eGift cards. 
@@ -40,3 +38,6 @@ We would love to conduct a global survey but academic systems across the globe w
 
 We will use the survey data to generate a report detailing our survey findings by September 2022. This will be disseminated publicly. All surveys are collected anonymously except where individuals choose to provide their name and e-mail address to be entered for the prize draw. Names and e-mail addresses submitted will only be used for this purpose and will not be shared for the analysis of the main survey data or for distribution. 
 
+## Author
+
+[Christopher Yau](https://www.wrh.ox.ac.uk/team/christoper-yau) and I am Professor of Artificial Intelligence at the [University of Oxford](http://www.ox.ac.uk) and [Health Data Research UK](https://www.hdruk.ac.uk/). 
