@@ -40,6 +40,8 @@ We would love to conduct a global survey but academic systems across the globe w
 
 We will use the survey data to generate a report detailing our survey findings by September 2022. This will be disseminated publicly. All surveys are collected anonymously except where individuals choose to provide their name and e-mail address to be entered for the prize draw. Names and e-mail addresses submitted will only be used for this purpose and will not be used for the analysis of the main survey data or for distribution.
 
-## Author
+## Contributors
 
 [Christopher Yau](https://www.wrh.ox.ac.uk/team/christoper-yau). Professor of Artificial Intelligence at the [University of Oxford](http://www.ox.ac.uk) and [Health Data Research UK](https://www.hdruk.ac.uk/). 
+
+Many thanks to Dominic Danks, Kaspar Martens, David Wong, Emma Whitfield, Breeshey Roskams-Hieter, Tim Frayling, Cecilia Lindgren, Angela Wood, Jose Benetiz-Aurioles, Andrew Holding, Karla DiazOrdaz, Catalina Vallejos, and many others I have forgotten for supporting the development of this survey.
