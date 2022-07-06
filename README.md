@@ -40,4 +40,4 @@ We will use the survey data to generate a report detailing our survey findings b
 
 ## Author
 
-[Christopher Yau](https://www.wrh.ox.ac.uk/team/christoper-yau) and I am Professor of Artificial Intelligence at the [University of Oxford](http://www.ox.ac.uk) and [Health Data Research UK](https://www.hdruk.ac.uk/). 
+[Christopher Yau](https://www.wrh.ox.ac.uk/team/christoper-yau). Professor of Artificial Intelligence at the [University of Oxford](http://www.ox.ac.uk) and [Health Data Research UK](https://www.hdruk.ac.uk/). 
