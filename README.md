@@ -1,5 +1,7 @@
 # [The Great UK PhD Data Science Survey](https://forms.gle/u55swJNChHbaKMMS6)
 
+![Great UK PhD Data Science Survey](survey-gfx.png)
+
 ## What are we doing?
 
 We are carrying out a [survey](https://forms.gle/u55swJNChHbaKMMS6) of UK PhD students who are working in any area of data science and I need your help! We hope to get survey responses from over 300 PhD students so please help us by sparing 10-15 minutes of your time to answer some questions.
