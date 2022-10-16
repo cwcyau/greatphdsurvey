@@ -2,6 +2,18 @@
 
 ![Great UK PhD Data Science Survey](survey-gfx.png)
 
+## Latest News 
+
+The survey is now complete!
+
+You can find a report on the results and the anonymised data at the corresponding [OSF project page](https://osf.io/96vp5/).
+
+I would like to thank all the contributors for your support!
+
+If you use the information or data from this survey, please use the following citation:
+
+> Yau, C. (2022, October 16). The Great UK PhD Data Science Survey. Retrieved from osf.io/96vp5. DOI 10.17605/OSF.IO/96VP5
+
 ## What are we doing?
 
 We are carrying out a [survey](https://forms.gle/u55swJNChHbaKMMS6) of UK PhD students who are working in any area of data science and I need your help! We hope to get survey responses from over 300 PhD students so please help us by sparing 10-15 minutes of your time to answer some questions.
